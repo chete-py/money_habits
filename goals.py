@@ -7,7 +7,7 @@ import json
 import re
 import streamlit_shadcn_ui as ui
 from google.oauth2 import service_account
-from local_components import card_container
+# from local_components import card_container
 
 # Define your Google Sheets credentials JSON file (replace with your own)
 credentials_path = 'dreamteam-410510-f5750e00bbd9.json'
